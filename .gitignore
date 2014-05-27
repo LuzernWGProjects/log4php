@@ -226,3 +226,4 @@ pip-log.txt
 .mr.developer.cfg
 /log4php/nbproject/private/
 nbproject
+/log4php/nbproject
